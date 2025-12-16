@@ -48,6 +48,10 @@ sudo dnf install android-tools qrencode
 ## Gebruik
 
 ```bash
+# Eenmalig: maak het script uitvoerbaar
+chmod +x datalogic-update.sh
+
+# Start het script
 ./datalogic-update.sh
 ```
 
