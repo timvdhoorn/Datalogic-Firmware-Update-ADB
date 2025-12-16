@@ -6,12 +6,19 @@ Bash script voor het updaten van Datalogic handheld devices via ADB.
 
 ## Ondersteunde devices
 
-- Memor 11
-- Memor 12 / 17
-- Memor 20
-- Memor 30 / 35
+Het script werkt met alle Datalogic Android devices die ADB ondersteunen, inclusief oudere modellen.
+
+**Devices met sideload ondersteuning:**
+- Memor 11, 12, 17, 20, 30, 35
 - Skorpio X5
 - Joya Touch 22
+
+**Oudere devices** (update via service, broadcast of handmatig):
+- Memor 1, 10
+- Skorpio X3, X4
+- Joya Touch / Joya Touch A6
+- Falcon X3, X4
+- En andere Datalogic Android handhelds
 
 ## Vereisten
 
